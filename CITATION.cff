@@ -1,0 +1,14 @@
+{
+  "cff-version": "1.2.0",
+  "message": "If you use this work, please cite this repository and the commit or release used.",
+  "type": "software",
+  "title": "Research Proposal Toolkit",
+  "authors": [
+    {
+      "name": "q1feng"
+    }
+  ],
+  "repository-code": "https://github.com/q1feng/research-proposal-toolkit",
+  "url": "https://github.com/q1feng/research-proposal-toolkit",
+  "license": "MIT"
+}

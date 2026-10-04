@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Proposal Toolkit（中文）"
+  short_description: "从研究问题到文献综述与开题草稿，保持证据与研究设计一致"
+  default_prompt: "使用 $research-proposal-toolkit-zh，根据我的观察、资料与反馈推进当前研究阶段。"

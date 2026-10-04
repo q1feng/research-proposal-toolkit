@@ -1,0 +1,18 @@
+{
+  "source_repository": "https://github.com/q1feng/research-question-forge",
+  "snapshot_id": "sha256:bdf17b92b7ffd85b6ac541f8ee6780907e9549586d92a22d2f3dc36929a9e5d2",
+  "source_layout": "{language}/research-question-forge-{language}/references/{module}.md",
+  "license": "MIT",
+  "files": {
+    "en/research-proposal-toolkit-en/references/forge/question-abstraction.md": "818a93bbbc7daa4da30de0a2ceb758b4d45be70b61db0ad2b0a06084f1806053",
+    "en/research-proposal-toolkit-en/references/forge/literature-feedback.md": "25624e9fcab28396ba160ffe71260c8e740eb01a7db789c806a6ee19b37f9ee7",
+    "en/research-proposal-toolkit-en/references/forge/expansion-decomposition.md": "89f771940d5cbae0fee79d0bd4b58f455d4aa2b139741931d0cca07ab6e5868f",
+    "en/research-proposal-toolkit-en/references/forge/research-taste.md": "24bf4d329d75238373ea60960232faf1d0c80b07309d90134a892333e9724a6b",
+    "en/research-proposal-toolkit-en/references/forge/framework-output.md": "02656ade6fa849930a0770e7ee189acc55a3873a85f06825accff8d5eb8272a9",
+    "zh/research-proposal-toolkit-zh/references/forge/question-abstraction.md": "3fb4737ace8b7bee9f3aceac3810d02db4187726890e36403a0bb23c40360878",
+    "zh/research-proposal-toolkit-zh/references/forge/literature-feedback.md": "8cc0b7127bc4bb20c47ba55a28a1868a841a08c66d0197605b31a82094253e9f",
+    "zh/research-proposal-toolkit-zh/references/forge/expansion-decomposition.md": "e1d704c440f96393170e064ce24de73a52a24544e1a15769251c7256bbccd592",
+    "zh/research-proposal-toolkit-zh/references/forge/research-taste.md": "4926e27e2e491b8efde18366b5860c053a33cdac4d9f0752e892db66cbe94518",
+    "zh/research-proposal-toolkit-zh/references/forge/framework-output.md": "3dcab92090e44b4281f8420bf94a4ebbc9a96bf70d5f219ba017c80d73e472e3"
+  }
+}

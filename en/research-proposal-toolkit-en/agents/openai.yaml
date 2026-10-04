@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Proposal Toolkit (English)"
+  short_description: "Build evidence-grounded review and proposal drafts"
+  default_prompt: "Use $research-proposal-toolkit-en to develop my current research stage from observations, sources, and feedback."
