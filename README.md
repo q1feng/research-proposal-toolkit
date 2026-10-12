@@ -67,6 +67,8 @@ New sources test the question and comparison baselines. Synthesis precedes prose
 
 Respect the user's sequence, including review first, further reading, then proposal. The researcher chooses substantial redirection after seeing options and rework costs.
 
+Read the [AI-assisted proposal and literature-review revision experience (Chinese)](docs/开题与综述_AI写作修订经验.md) for the actual revision process, recurring writing problems, and the boundary between reusable methods and case-specific choices. This document can be read independently and is not loaded by the Skill by default.
+
 ## Use it as-is or compose your own workflow
 
 This toolkit incorporates selected core mechanisms from literature-review and research-proposal Skills, while treating composition as a central principle. Users are encouraged to discover and choose literature-search, research-framework revision, academic editing, and paper-writing Skills suited to their discipline, research stage, and deliverables, building a workflow of their own. Figure-creation and presentation Skills are also possible extensions, but these integrations have not yet been tested with this toolkit. Additional Skills are optional; the toolkit and portable guide remain usable on their own.

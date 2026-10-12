@@ -14,12 +14,12 @@ Project: to be supplied. Review/proposal files: to be supplied. Last audit date:
 
 ### Stable ID | Full article title
 
-- **Identity:** Authors, year, journal/conference, publication status, DOI/source link, and version read.
+- **Identity:** Author order, title, year, journal/conference, volume/issue and pages/article number, publication status, DOI/source link, and version read; mark missing fields unverified.
 - **Impact context:** Impact factor (year/definition, source, retrieval date); conference rank (scheme/version, source, date); citation count (database and date). Distinguish unverified, inapplicable, and inaccessible.
 - **Reading record:** Depth, close-reading status, reader, date, and checked sections. Record code inspection/reproduction separately.
 - **One-sentence summary:** Paraphrase with the basis identified: abstract or original text.
 - **Locations and purposes:** Claim and role at each location. Flag unsupported or decorative citations honestly.
-- **Evidence and limits:** Original location, what is supported, and what is not.
+- **Evidence and limits:** Original location, direct/indirect support, counterevidence or background, supported content, and limits.
 - **Synthesis and action:** Relation to other work and this project, recommendation and reason; link deeper analysis below when applicable.
 
 Keep ordinary entries compact: about 100–150 English words of commentary is usually enough, excluding bibliographic details and links. Preserve important evidence instead of enforcing a rigid limit.

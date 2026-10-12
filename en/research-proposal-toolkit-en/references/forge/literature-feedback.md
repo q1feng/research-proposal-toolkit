@@ -4,7 +4,7 @@
 
 First seek work most likely to answer or challenge the candidate question, then add foundational, recent, directly relevant, and competing work. Record the actual search sources, dates, terms, and inclusion reasons. User-supplied papers are leads, not a mandatory citation list. Do not describe a targeted search as an exhaustive systematic review.
 
-Verify identity, version, and reading depth; extract objects, assumptions, methods, evidence, conclusions, and limits. Abstracts help screen sources but cannot establish the absence of a capability. Distinguish reported findings, assistant inferences, anticipated capabilities, and locally verified results. Public code, executable code, and successful reproduction are separate states.
+Verify identity, version, and reading depth; extract objects, assumptions, methods, evidence, conclusions, and limits. Abstracts help screen sources but cannot establish the absence of a capability. Distinguish reported findings, assistant inferences, anticipated capabilities, and locally verified results. Base code-availability claims on official repositories or release information actually checked; availability, execution, and reproduction are separate states.
 
 For each update, ask what changed: an existing answer, a closer baseline, a refuted gap, a rival explanation, a narrower scope, a broader question, or a new foothold. Record the affected judgment, basis, recommendation, and user decision. Background additions need not change the framework.
 
@@ -14,7 +14,7 @@ Distinguish background, nearest prior work, baselines or controls, countereviden
 
 Maintain: source and role → selection rationale → comparable objects/conditions/evaluation → existing coverage → candidate difference → supporting and conflicting evidence → unresolved checks/reuse conditions. Do not rank results from incompatible samples, metrics, or resources. Without a fair experiment, compare known conditions and reported evidence rather than claiming superiority.
 
-For each candidate direction, identify the question, inherited foundations, possible contribution, cost, prerequisites, and evidence that could change the judgment. Rewording does not create a new approach. Incomplete literature requires explicit follow-up questions, not presumed novelty.
+For each candidate direction, identify the question, borrowed foundations and mechanisms, differences in conditions and necessary adaptation, possible contribution, cost, prerequisites, and evidence that could change the judgment. Rewording does not create a new approach, and a source's capabilities do not automatically become promises for this project. Incomplete literature requires explicit follow-up questions, not presumed novelty.
 
 ## Composable handoffs
 

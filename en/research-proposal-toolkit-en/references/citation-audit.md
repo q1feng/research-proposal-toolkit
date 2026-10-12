@@ -16,7 +16,7 @@ Use the seven short fields below for ordinary sources. Typically, about 100–15
 
 ### R001 | Full article title (template, not a real source)
 
-- **Identity:** Authors, year, full journal/conference name, publication/preprint status, DOI or original-source link, and version read.
+- **Identity:** Author order, title, year, full journal/conference name, volume/issue and pages/article number, publication/preprint status, DOI or original-source link, and version read; mark missing fields unverified.
 - **Impact context:** Journal impact factor with metric year/definition, source, and retrieval date; conference rank with scheme/version, source, and date; article citation count with database and retrieval date. Mark unavailable or inapplicable fields separately.
 - **Reading record:** Depth, reader (student/assistant), date, and sections checked; close reading: yes/partial/no, with a basis rather than a checkbox alone.
 - **One-sentence summary:** Paraphrase the object, approach or position, and main finding. Label summaries based only on the abstract.
@@ -40,7 +40,7 @@ Roles include concept/history, background, method, baseline, direct support, cou
 
 If the current reason is simply breadth or citation count without independent support, mark it as a **potentially redundant citation** and recommend checking, merging, or removing it. Record existing uses instead of inventing necessity. Resolve redundancy before submission; this rule does not endorse padding. Legitimate background citations are not automatically redundant.
 
-Create one identity card for a source cited in multiple places and record each purpose. A narrow finding cannot support an entire paragraph of broader claims. Preserve conflicting results and their conditions, not only sources favorable to the proposed project.
+Create one identity card for a source used in multiple places, recording each location, purpose, and evidence relationship: direct support, indirect support, counterevidence, or background. Indirect evidence is not direct validation, and narrow findings cannot support entire paragraphs of broader claims. Preserve conflicting results and their conditions, not only favorable sources.
 
 ## 5. Focused reading and analysis
 
@@ -62,7 +62,6 @@ Before drafting a section, read relevant cards and focused records, assess evide
 
 Before submission, reconcile both ways: every in-text citation has a bibliography entry and card; bibliography entries are used; cards marked cited occur in the current draft. Flag strong claims supported only by shallow reading, metrics without dates/sources, padding, duplicates, and claim-source mismatches for human review.
 
+After changing sources or publication versions, recheck evidential support and bibliographic fields before renumbering each draft. Do not combine a preprint's year with a published version's venue or pages. Use the institution's or user's citation style and standard edition, distinguishing source truth, citation correspondence, and formatting; sample reports guide form without certifying provenance.
+
 The ledger is excluded from the roughly ten-page review body. It exposes gaps but does not automatically certify truth or novelty.
-
-
-Evidence relationship: record whether each use provides direct support, indirect support, counterevidence, or background. Do not upgrade indirect evidence into direct validation.

@@ -6,19 +6,21 @@ A reader without the chat or task briefs should understand what the field knows,
 
 Default to title, abstract and keywords, introduction, thematic body, conclusions and outlook, and references. Mandatory institutional headings take precedence. Otherwise, integrate historical development into themes and compare domestic and international work under common questions instead of mechanically separating chronology or geography. Do not infer affiliation from names or presume regional inferiority.
 
-Use concrete scholarly or practical significance to motivate the introduction, then define concepts, scope, and organization. Explain how work answers questions, why approaches diverge, and which conditions limit conclusions. The title's central relationship needs direct research and adequate space, not separate module summaries alone. Derive a topic-specific outlook from the evidence rather than predicting generic breakthroughs.
+Motivate the introduction through concrete scholarly or practical needs and difficulties. Introduce necessary concepts, scope, and organization through their contexts and roles, retaining formal definitions when distinctions require them. Explain how work answers questions, why approaches diverge, and what limits conclusions. The title's central relationship needs direct research and adequate space. Synthesize the findings and derive a relevant outlook from evidence gaps, returning to the introduction's question instead of repeating sections or predicting generic breakthroughs.
 
 ## Prose and depth
 
 Target roughly ten A4 pages of body text, excluding front matter, bibliography, and audit, unless institutional requirements differ. Allocate space by argumentative importance. Without layout, state the target rather than claiming verified pages. Expand with evidence and explanation; shorten by removing repetition, not by manipulating fonts or padding citations.
 
-Give each paragraph a main point and connect sentences through cause, contrast, refinement, or illustration. Explain representative methods and evidence concretely; treat ordinary background briefly and choose a primary location for each paper. Avoid consecutive author summaries and formulaic limitations at every paragraph end. The abstract summarizes scope and synthesis, not unperformed experiments.
+Give each paragraph a main point, connecting it through cause, contrast, refinement, or illustration; transitions explain substantive relationships. Develop representative methods and evidence, keep background brief, and choose a primary location for each paper. State general developments with citations; emphasize authors when attribution or disputes matter. Avoid consecutive author summaries and formulaic paragraph-end limitations.
+
+Express roles, conditions, and judgments directly, reducing formulaic negative contrasts, tutorial definitions, and self-justification. Retain necessary negation, formal definitions, and scholarly limits; blanket word bans or synonym swaps cannot repair prose. The abstract states scope, organization, and synthesis, ending with the central question. Derive keywords from established literature terminology and the draft's emphasis rather than splitting the title. Follow actual length and paragraph requirements; do not claim unperformed experiments.
 
 ## Separate prose from work records
 
 Keep versions, tool activity, reading queues, verification status, and next actions in working files. Retain genuine scholarly limitations and replace generic warnings with analysis of specific conditions. Narrow or defer unsupported strong claims instead of hiding uncertainty outside the text.
 
-Tables should make substantive comparisons; diagrams should clarify classification, development, or relationships. Task-management tables do not belong in the review, and synthesis diagrams are not proposed methods or experimental results. Respect the user's visual choices without imposing a universal ban on tables.
+Tables make substantive comparisons; diagrams clarify classification, development, or relationships, with their role explained in the text. Distinguish reproduced/adapted figures, proposed-method diagrams, and results. Keep captions concise as requested while preserving traceable source/figure locations and required attribution. Keep task-management tables outside the prose. Respect visual choices without imposing a universal table ban or fixed figure count.
 
 ## Review the draft
 
